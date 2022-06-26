@@ -1,0 +1,4 @@
+{
+  "mongoDB_URI": "mongodb+srv://techacademy123:techacademy123@cluster0.yi3ou.mongodb.net/mernAuth?retryWrites=true&w=majority",
+  "jwtSecret": "secrettoken"
+}
